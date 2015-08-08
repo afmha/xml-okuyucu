@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dagiticilar>
+    <dagitici>
+        <ad>Steam</ad>
+        <gelistirici>Valve</gelistirici>
+    </dagitici>
+    <dagitici>
+        <ad>Origin</ad>
+        <gelistirici>EA</gelistirici>
+    </dagitici>
+    <dagitici>
+        <ad>UPlay</ad>
+        <gelistirici>Ubisoft</gelistirici>
+    </dagitici>
+</dagiticilar>
